@@ -10,7 +10,7 @@ import TortasD from './components/TortasD'
 import Eventos from './components/Eventos'
 import RingRolls from './components/RingRolls'
 import Encomenda from './components/Encomenda'
-import Contato from './components/contato'
+import Contato from './components/Contato'
 
 function App() {
 
