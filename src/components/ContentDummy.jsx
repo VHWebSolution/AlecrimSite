@@ -1,5 +1,5 @@
 import React from 'react'
-import TB from '/torta-brocolis.jpg'
+import TB from '/4.png'
 import Q from '/tacoring.jpg'
 import F from '/80.jpg'
 
