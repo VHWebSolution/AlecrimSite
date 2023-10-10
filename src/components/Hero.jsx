@@ -15,7 +15,7 @@ const Hero = () => {
               <p className="mb-4 leading-relaxed text-2xl">
                 Sua Festa, Sua Alegria, Nossa Especialidade!
               </p>
-              <Link to="cardapio" smooth={true} offset={-145} duration={1100}  >
+              <Link to="cardapio" smooth={true} offset={-200} duration={1100}  >
                 <button className="inline-flex text-white text-lg bg-[#277D58] rounded-[20px] border-0 py-2 px-8 focus:outline-none hover:bg-[#18975F] duration-500 cursor-pointer">
                   Conheça nosso cardápio
                   <svg
