@@ -42,16 +42,6 @@ const SwiperHome = () => {
           },
         }}
       >
-        <SwiperSlide>
-          <div className="w-68 h-68">
-            <div
-              className="w-200 h-200 flex items-center justify-center"
-              style={{ width: '100%', height: '100%' }}
-            >
-              <img src={C1} alt="" style={{ maxWidth: '100%', maxHeight: '100%' }} />
-            </div>
-          </div>
-        </SwiperSlide>
 
         <SwiperSlide>
           <div className="w-68 h-68">
@@ -104,17 +94,6 @@ const SwiperHome = () => {
               style={{ width: '100%', height: '100%' }}
             >
               <img src={C6} alt="" style={{ maxWidth: '100%', maxHeight: '100%' }} />
-            </div>
-          </div>
-        </SwiperSlide>
-
-        <SwiperSlide>
-          <div className="w-68 h-68">
-            <div
-              className="w-200 h-200 flex items-center justify-center"
-              style={{ width: '100%', height: '100%' }}
-            >
-              <img src={C1} alt="" style={{ maxWidth: '100%', maxHeight: '100%' }} />
             </div>
           </div>
         </SwiperSlide>

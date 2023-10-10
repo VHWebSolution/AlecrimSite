@@ -71,7 +71,7 @@ const Header = () => {
     }, [isMobile]);
 
     return (
-        <header className="text-gray-600 body-font justify-around fixed top-0 left-0 w-full z-10 bg-white backdrop-blur-md">
+        <header className="text-gray-600 body-font justify-around fixed top-0 left-0 w-full z-10 bg-[#FEFEFE] backdrop-blur-md">
             {isMobile ? (
                 <div className={`flex items-center justify-around flex-wrap bg-[#16784D] h-[40px] sm:h-auto ${isMobile ? 'text-slider' : ''}`}>
                     <p className="text-white text-[16px] flex">
@@ -111,13 +111,13 @@ const Header = () => {
                 <Link to="sobre" smooth={true} offset={-175} duration={1100} className="mr-5 hover:text-gray-400 duration-200 cursor-pointer">
                 Sobre
                 </Link>
-                <Link to="cardapio" smooth={true} offset={-145} duration={1100} className="mr-5 hover:text-gray-400 duration-200 cursor-pointer">
+                <Link to="cardapio" smooth={true} offset={-200} duration={1100} className="mr-5 hover:text-gray-400 duration-200 cursor-pointer">
                 Cardápio
                 </Link>
                 <Link to="encomenda" smooth={true} offset={-145} duration={1100} className="mr-5 hover:text-gray-400 duration-200 cursor-pointer">
                 Encomendas
                 </Link>
-                <Link to="contato" smooth={true} offset={-45} duration={1100} className="mr-5 hover:text-gray-400 duration-200 cursor-pointer">
+                <Link to="contato" smooth={true} offset={-95} duration={1100} className="mr-5 hover:text-gray-400 duration-200 cursor-pointer">
                 Contato
                 </Link>
                 </nav>

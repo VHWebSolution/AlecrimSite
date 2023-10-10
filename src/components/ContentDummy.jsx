@@ -1,6 +1,6 @@
 import React from 'react'
 import TB from '/torta-brocolis.jpg'
-import Q from '/quesadilha1.jpg'
+import Q from '/tacoring.jpg'
 import F from '/80.jpg'
 
 const ContentDummy = () => {

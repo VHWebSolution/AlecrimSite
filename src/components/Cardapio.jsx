@@ -16,42 +16,22 @@ const Cardapio = () => {
         <Link
           to="tortas-salgadas" 
           smooth={true}
-          offset={-110} // Rolagem suave
+          offset={-150} // Rolagem suave
           duration={1100} // Duração da animação de rolagem em milissegundos
           className="bg-[#16784D] text-white border-0 py-3 px-6 focus:outline-none hover:bg-[#2a6c4f] duration-200 rounded-lg text-2xl  mt-4"
         >
-          Tortas Salgadas
-        </Link>
-
-        <Link
-          to="tortas-doces" 
-          smooth={true} // Rolagem suave
-          offset={-110}
-          duration={1100} // Duração da animação de rolagem em milissegundos
-          className="bg-[#16784D] text-white border-0 py-3 px-6 focus:outline-none hover:bg-[#2a6c4f] duration-200 rounded-lg text-2xl  mt-4"
-        >
-          Tortas Doce
+          Refeições e Lanches
         </Link>
 
         <Link
           to="eventos" 
           smooth={true} // Rolagem suave
-          offset={-110}
+          offset={-150}
           duration={1100} // Duração da animação de rolagem em milissegundos
           className="bg-[#16784D] text-white border-0 py-3 px-6 focus:outline-none hover:bg-[#2a6c4f] duration-200 rounded-lg text-2xl  mt-4"
         >
           Festa e Eventos
-        </Link>
-
-        <Link
-          to="ringrolls" 
-          smooth={true} // Rolagem suave
-          offset={-110}
-          duration={1100} // Duração da animação de rolagem em milissegundos
-          className="bg-[#16784D] text-white border-0 py-3 px-6 focus:outline-none hover:bg-[#2a6c4f] duration-200 rounded-lg text-2xl  mt-4"
-        >
-          Ring & Rolls
-        </Link>
+        </Link> 
          
         </div>
       </div>

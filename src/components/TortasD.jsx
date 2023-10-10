@@ -21,8 +21,8 @@ const TortasD = () => {
                 <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={C1} />
                 <div class="flex-grow sm:pl-8">
                     <h2 class="title-font font-medium text-lg text-gray-900">Torta de Maça ( Classic Apple Pie )</h2>
-                    <h3 class="text-gray-500">Individual: R$ 25,00 (16cm).</h3>
-                    <h3 class="text-gray-500">Familiar (Rende 8 fatias): R$ 80,00 (24cm).</h3>
+                    <h3 class="text-gray-500">Individual: R$ 30,00 (16cm).</h3>
+                    <h3 class="text-gray-500">Familiar (Rende 8 fatias): R$ 90,00 (24cm).</h3>
                     <p class="mb-4">Massa artesanal, maçã, manteiga, limão, canela, noz moscada, açúcar mascavo e açúcar regular.</p>            
                 </div>
                 </div>
@@ -32,29 +32,18 @@ const TortasD = () => {
                 <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={BP} />
                 <div class="flex-grow sm:pl-8">
                     <h2 class="title-font font-medium text-lg text-gray-900">Torta de Banana</h2>
-                    <h3 class="text-gray-500">Individual: R$ 22,00 (16cm).</h3>
+                    <h3 class="text-gray-500">Individual: R$ 25,00 (16cm).</h3>
                     <h3 class="text-gray-500">Grande (Rende 8 porções): R$ 75,00 (24cm).</h3>
                     <p class="mb-4">Massa artesanal, banana, açúcar, leite, baunilha, manteiga, sal e noz moscada.</p>                       
                 </div>
                 </div>
-            </div>
-            <div class="p-4 lg:w-1/2">
-                <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={CK} />
-                <div class="flex-grow sm:pl-8">
-                    <h2 class="title-font font-medium text-lg text-gray-900">CheeseCake</h2>
-                    <h3 class="text-gray-500">Individual em Pote: Morango: R$ 15,00 / Frutas Vermelhas: R$ 20,00 (14cm)</h3>
-                    <h3 class="text-gray-500">Familiar (Rende 8 porções): Morango: R$ 110,00 / Frutas Vermelhas: R$ 125,00 (25cm)</h3>
-                    <p class="mb-4">Massa de biscoito especial, manteiga, açúcar, Cream Cheese, creme de leite. Coberturas: Morango ou Frutas Vermelhas.</p> 
-                </div>
-                </div>
-            </div>
+            </div>           
             <div class="p-4 lg:w-1/2">
                 <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                 <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src={L} />
                 <div class="flex-grow sm:pl-8">
                     <h2 class="title-font font-medium text-lg text-gray-900">Torta de Merengue de Limão</h2>
-                    <h3 class="text-gray-500">Individual: R$ 22,00 (16cm).</h3>
+                    <h3 class="text-gray-500">Individual: R$ 25,00 (16cm).</h3>
                     <h3 class="text-gray-500">Grande (Rende 8 porções): R$ 75,00 (24cm).</h3>
                     <p class="mb-4">Massa artesanal, limão, açúcar, leite condensado, creme de leite, ovos e manteiga.</p> 
                 </div>
